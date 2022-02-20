@@ -11,5 +11,5 @@ console.log(
 );
 
 console.log(
-  str.match(/(?<=\@).{1,}/g) // [ "thesecon" ]
+  str.match(/(?<=\@).{1,}/g) // [ "gmail.com" ]
 );
